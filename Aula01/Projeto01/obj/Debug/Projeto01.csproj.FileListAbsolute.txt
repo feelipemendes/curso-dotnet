@@ -1,0 +1,14 @@
+C:\Projetos\dotNET\MeuPrimeiroPrograma\Aula01\Aula01\Projeto01\bin\Debug\Projeto01.exe.config
+C:\Projetos\dotNET\MeuPrimeiroPrograma\Aula01\Aula01\Projeto01\bin\Debug\Projeto01.exe
+C:\Projetos\dotNET\MeuPrimeiroPrograma\Aula01\Aula01\Projeto01\bin\Debug\Projeto01.pdb
+C:\Projetos\dotNET\MeuPrimeiroPrograma\Aula01\Aula01\Projeto01\obj\Debug\Projeto01.csprojAssemblyReference.cache
+C:\Projetos\dotNET\MeuPrimeiroPrograma\Aula01\Aula01\Projeto01\obj\Debug\Projeto01.csproj.CoreCompileInputs.cache
+C:\Projetos\dotNET\MeuPrimeiroPrograma\Aula01\Aula01\Projeto01\obj\Debug\Projeto01.exe
+C:\Projetos\dotNET\MeuPrimeiroPrograma\Aula01\Aula01\Projeto01\obj\Debug\Projeto01.pdb
+C:\Projetos\dotNET\COTI\Aula01\Projeto01\bin\Debug\Projeto01.exe.config
+C:\Projetos\dotNET\COTI\Aula01\Projeto01\bin\Debug\Projeto01.exe
+C:\Projetos\dotNET\COTI\Aula01\Projeto01\bin\Debug\Projeto01.pdb
+C:\Projetos\dotNET\COTI\Aula01\Projeto01\obj\Debug\Projeto01.csprojAssemblyReference.cache
+C:\Projetos\dotNET\COTI\Aula01\Projeto01\obj\Debug\Projeto01.csproj.CoreCompileInputs.cache
+C:\Projetos\dotNET\COTI\Aula01\Projeto01\obj\Debug\Projeto01.exe
+C:\Projetos\dotNET\COTI\Aula01\Projeto01\obj\Debug\Projeto01.pdb
